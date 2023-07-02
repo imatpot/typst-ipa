@@ -1,3 +1,11 @@
+> **NOTE: This library has been added to the Typst package repository:** <br>
+> https://github.com/typst/packages/pull/11
+>
+> **Please create issues here, where the library will be maintained going forward:** <br>
+> https://github.com/imatpot/typst-packages
+
+---
+
 # Typst IPA
 
 A direct port of the [`ipa-translate`](https://github.com/tirimid/ipa-translate) Rust crate by [tirimid](https://github.com/tirimid)'s conversion features into native [Typst](https://typst.app). Props to them for doing all the *actual* work!
